@@ -4,7 +4,3 @@ Exercicio 2, do treinamento de GitHub
 Óla meu nome é Giullia, e iniciamos hoje o treinamento de GitHub
 # Trabalho
 sou Estagiaria de Suporte
-# Philips
-trabalha com Sistema Hospitalar
-
-
