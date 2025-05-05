@@ -2,3 +2,5 @@
 Atividade do treinamento do GITHUB
 # Apresentação 
 óla meu nome é giullia 
+# Philips
+Eu trabalho na Philips 
